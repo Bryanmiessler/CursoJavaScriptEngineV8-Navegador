@@ -1,0 +1,3 @@
+// Ejecuta la palabra window, se desplegará un objeto en el que se encuentran todas las funcionalidades de JavaScript, por ejemplo ejecuta window.console.log("Hola") tendrá el mismo comportamiento que console.log("Hola").
+
+// Si ejecutas this observarás que muestra el mismo objeto que window, esto es porque en un contexto global, estos dos objetos son iguales. Pero en otros contextos, como el de una función o una clase, this cambia.
